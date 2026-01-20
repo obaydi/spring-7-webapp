@@ -11,7 +11,7 @@
 	<groupId>guru.springframework</groupId>
 	<artifactId>spring-7-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-6-webapp</name>
+	<name>spring-7-webapp</name>
 	<description>Spring 7 Web App</description>
 	<url/>
 	<licenses>
