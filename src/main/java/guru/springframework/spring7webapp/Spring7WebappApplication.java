@@ -1,4 +1,4 @@
-package guru.springframework.spring6webapp;
+package guru.springframework.spring7webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
